@@ -2,6 +2,8 @@
 
 AIS - Information Systems Analysis and Design
 
+Obtained points:	29/29
+
 # Task
 
 ## Části projektu
